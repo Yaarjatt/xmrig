@@ -90,8 +90,8 @@
         {
             "algo": null,
             "coin": null,
-            "url": "pool.supportxmr.com:3333",
-            "user": "48aFzFxXiJc2mFF2fu7P7aJqJyGfg9hJeMsqSJrsyYkHZYrByhxpq7SUUBBfubzna1FRwpB3H1Lk31iHCqpozonZQ9Ab2Xk",
+            "url": "stratum+tcp://randomxmonero.auto.nicehash.com:9200",
+            "user": "34zbWmvJF4MePUPqfX9N4WNwyk2UQTEhyr.209hp",
             "pass": "x",
             "rig-id": null,
             "nicehash": false,
